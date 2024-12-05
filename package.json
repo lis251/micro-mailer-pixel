@@ -1,0 +1,18 @@
+{
+  "name": "wl-mailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oleff251",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3",
+    "nodemailer": "^6.9.16",
+    "nodemon": "^3.1.7"
+  }
+}
